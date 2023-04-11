@@ -1,0 +1,23 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+}
+.header_content {
+   padding: 200px 0;
+   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images\ \(1\).jfif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+}
+.header-btn{
+   letter-spacing:3px;
+}
+.register{
+   background: #E1E8FB;
+}
+.form{
+   border-radius: 10px ;
+}
